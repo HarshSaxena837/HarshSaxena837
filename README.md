@@ -1,5 +1,5 @@
 ![logo](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
-<h1 align="center">Hi 👋, I'm Kirpal Singh</h1>
+<h1 align="center">Hi 👋, I'm Harshvardhan Saxena</h1>
 <h3 align="center">A passionate Machine and Deep Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSaxena837&label=Profile%20views&color=0e75b6&style=flat" alt="HarshSaxena837" /> </p>
