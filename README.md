@@ -9,14 +9,12 @@
 
 - 💬 Ask me about **Machine Learning , Deep Learning**
 
-- 📫 How to reach me **HarshSaxena8372002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xAeseYcx5jNDMFMiQZD02Zl2iadEHCFW?usp=sharing](https://drive.google.com/drive/folders/1xAeseYcx5jNDMFMiQZD02Zl2iadEHCFW?usp=sharing)
+- 📫 How to reach me **HarshSaxena2994@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[(https://www.linkedin.com/in/harshvardhan-s-667202237)](https://www.linkedin.com/in/harshvardhan-s-667202237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan-s-667202237" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/kirpal_singh](https://leetcode.com/HarshSaxena19/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirpal_singh" height="30" width="40" /></a>
+<a href="[((https://leetcode.com/HarshSaxena19/))](https://leetcode.com/HarshSaxena19/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Harshvardhan_Saxena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
