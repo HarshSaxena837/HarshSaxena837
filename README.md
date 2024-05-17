@@ -1,7 +1,6 @@
 
 ![logo](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
-<h1 align="center">Hi 👋, I'm Kirpal Singh</h1>
-<h3 align="center">A passionate Machine and Deep Learning Engineer</h3>
+
 <h1 align="center">Hi 👋, I'm Harshvardhan Saxena</h1>
 <h3 align="center">A passionate Machine and Deep Learning Engineer with good knowledge of data structures and algorithms</h3>
 
